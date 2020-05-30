@@ -32,16 +32,11 @@ What are the peak times during the week? And weekend?
 Does the volume of rides are similar during the year? Who rides most?
 
 
-## Materials consulted
+## Resources
 
 Stackoverflow was the main source of help, in addition to Pandas, amtplotlib and seaborn documentations.
 
 ## License
+
 N/a
 
-
-
-
-
-
-Materials: Pandas, matplotlib, seaborn manuals 
